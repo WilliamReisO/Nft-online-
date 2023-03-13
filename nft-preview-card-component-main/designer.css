@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+@media screen and (max-width:1400px) and (min-width:899px) {
+    .card {
+        margin-top: 2%;
+        height: auto;
+        Weight: 700px;
+    }
+
+    img {
+        margin: 15px 5px 5px;
+
+        border-radius: 10px;
+    }
+}
+
+body {
+    text-align: center;
+    font-size: 18px;
+    width: 300, 400, 600;
+    font-family: 'Outfit', sans-serif;
+    background: hsl(217, 54%, 11%);
+}
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.card {
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    background: hsl(216, 50%, 16%);
+    border-radius: 15px;
+    width: 300px;
+    height: auto;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.2), 10px 20px 10px rgba(0, 0, 0, 0.19), 10px 10px 10px rgba(20, 10, 93, 0.249);
+}
+
+.container {
+    font-size: 18px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+img {
+    margin: 25px 3px 3px;
+    max-width: 85%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.img:hover {
+    opacity: 0.8;
+}
+
+h1 {
+    font-size: 18px;
+    color: white;
+}
+
+p {
+    font: small;
+    font-size: 18px;
+    color: hsl(215, 51%, 70%);
+}
+
+
+p2 {
+    font-size: 15px;
+    color: hsl(178, 100%, 50%);
+}
